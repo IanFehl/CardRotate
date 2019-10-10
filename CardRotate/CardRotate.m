@@ -1,4 +1,3 @@
-% Group members: Ian Fehl and Mary Parker
 clearvars
 close all
 
